@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L100 0L100 100L0 100L0 0L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="table">
+    <g id="table">
+      <path d="M0 0L100 0L100 100L0 100L0 0L0 0Z" id="Arrière-plan" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+      <g id="Groupe-de-masques">
+        <path d="M0 0L100 0L100 100L0 100L0 0L0 0Z" id="path_1" fill="none" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <g id="Group" transform="translate(8.33333 8.33333)">
+            <path d="M57.9999 33L75.9999 33L75.9999 51L57.9999 51L57.9999 33L57.9999 33Z" id="Rectangle-Copy-3" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+            <path d="M33 57.3334L51 57.3334L51 75.3334L33 75.3334L33 57.3334L33 57.3334Z" id="Rectangle-Copy-2" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+            <path d="M7.33337 33L25.3334 33L25.3334 51L7.33337 51L7.33337 33L7.33337 33Z" id="Rectangle-Copy" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+            <path d="M32.3334 8L50.3334 8L50.3334 26L32.3334 26L32.3334 8L32.3334 8Z" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+            <path d="M79.1667 0L4.16667 0C1.86547 0 0 1.86547 0 4.16667L0 79.1667C0 81.4679 1.86547 83.3334 4.16667 83.3334L79.1667 83.3334C81.4679 83.3334 83.3334 81.4679 83.3334 79.1667L83.3334 4.16667C83.3334 1.86547 81.4679 0 79.1667 0L79.1667 0L79.1667 0ZM25 75L8.33337 75L8.33337 58.3334L25 58.3334L25 75L25 75ZM25 50L8.33337 50L8.33337 33.3334L25 33.3334L25 50L25 50ZM25 25L8.33337 25L8.33337 8.33337L25 8.33337L25 25L25 25ZM50 75L33.3334 75L33.3334 58.3334L50 58.3334L50 75L50 75ZM50 50L33.3334 50L33.3334 33.3334L50 33.3334L50 50L50 50ZM50 25L33.3334 25L33.3334 8.33337L50 8.33337L50 25L50 25ZM75 75L58.3334 75L58.3334 58.3334L75 58.3334L75 75L75 75ZM75 50L58.3334 50L58.3334 33.3334L75 33.3334L75 50L75 50ZM75 25L58.3334 25L58.3334 8.33337L75 8.33337L75 25L75 25Z" id="Forme" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
